@@ -1,0 +1,54 @@
+.section-one {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+.section{
+    margin-top: 30px;
+}
+.section-two,
+.section-three,
+.section-four,
+.section-five {
+    display: inline-block;
+    border: solid black 2px;
+}
+.section-two__img,
+.section-three__img,
+.section-four__img,
+.section-five__img {
+    display:inline;
+    height: 400px;
+    width: 300px;
+}
+.container {
+    text-align: center;
+    padding: 10px;
+ display: block;
+}
+
+.section-four__b,
+.section-two__b,
+.section-three__b,
+.section-five__b {
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+.table {
+    display: inline-block;
+}
+.table-one {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+.table-b {
+    background-color: yellow;
+    display: inline-block;
+    width: 400px;
+    border: none;
+    text-align: center;
+}
